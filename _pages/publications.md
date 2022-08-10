@@ -21,4 +21,4 @@ You can find all of my publications on <u><a href="{{author.googlescholar}}">my 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-{% comment %}
+{% endcomment %}
