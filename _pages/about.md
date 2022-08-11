@@ -19,7 +19,7 @@ Research Interests
 
 Positions Held
 ======
-* Assistant Professor / Courant Instructor and Simons Faculty Fellow at the Courant Institute of Mathematical Sciences as NYU (2020-current)
+* Assistant Professor / Courant Instructor / Simons Faculty Fellow in the Mathematics Department of the Courant Institute at New York University (2020-current)
 * Research Assistant at MIT Plasma Science and Fusion Center (2015-2020)
 
 Education
