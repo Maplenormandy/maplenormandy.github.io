@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! I like turbulence. This site is currently under construction. Please come back soon!
+Hello World! I like turbulence. This site is currently under construction. Please come back soon for more updates!
 
 ## Research Interests
 * Magnetic confinement fusion energy
