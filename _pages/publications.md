@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find all of my publications on <a href="https://scholar.google.com/citations?user=WQRmB8MAAAAJ">my Google Scholar profile</a>. Feel free to contact me for copies of any papers or presentations I've authored.
+You can find all of my publications on <a href="https://scholar.google.com/citations?user=WQRmB8MAAAAJ">my Google Scholar profile</a>. Feel free to contact me for copies of any papers or presentations I've authored!
 
 {% include base_path %}
 
@@ -15,8 +15,8 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 * Confinement transitions in tokamaks
   * __Cao N M__, Rice J E, Diamond P H, White A E, Chilenski M A, Ennever P C, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P 2020 Evidence and modeling of turbulence bifurcation in L-mode confinement transitions on Alcator C-Mod Phys. Plasmas 27 052303 ([doi](https://doi.org/10.1063/1.5144444))
   * __Cao N M__, Rice J E, Diamond P H, White A E, Baek S G, Chilenski M A, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P 2019 Hysteresis as a probe of turbulent bifurcation in intrinsic rotation reversals on Alcator C-Mod Nucl. Fusion 59 104001 ([doi](https://doi.org/10.1088/1741-4326/ab3b38))
-* Computational statistics
-  * __Cao N M__ and Sciortino F 2020 Bayesian Spectral Moment Estimation and Uncertainty Quantification IEEE Trans. Plasma Sci. 48 22–30 ([doi](10.1109/TPS.2019.2946952))
+* Computational statistics / spectroscopy
+  * __Cao N M__ and Sciortino F 2020 Bayesian Spectral Moment Estimation and Uncertainty Quantification IEEE Trans. Plasma Sci. 48 22–30 ([doi](https://doi.org/10.1109/TPS.2019.2946952))
 * Fusion engineering
   * Kuang A Q, __Cao N M__, Creely A J, Dennett C A, Hecla J, LaBombard B, Tinguely R A, Tolman E A, Hoffman H, Major M, Ruiz Ruiz J, Brunner D, Grover P, Laughman C, Sorbom B N and Whyte D G 2018 Conceptual design study for heat exhaust management in the ARC fusion pilot plant Fusion Eng. Des. 137 221–42 ([doi](https://doi.org/10.1016/j.fusengdes.2018.09.007)) \
  _(Note: This publication was the result of a group project for MIT 22.63 Engineering Principles for Fusion Reactors)_
