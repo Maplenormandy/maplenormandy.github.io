@@ -22,5 +22,6 @@ Hello world! I like turbulence, fundamental research, teaching, and work which h
 
 ## Education
 * Ph.D. in Applied Plasma Physics, Massachusetts Institute of Technology, 2020
+Thesis Title: _Characterization of a turbulence bifurcation underlying L-mode confinement transitions on Alcator C-Mod_
 * B.S. in Aerospace Engineering and Physics with Minor in Mathematics, Massachusetts Institute of Technology, 2015
 

@@ -9,7 +9,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 
 {% include base_path %}
 
-## Selected Publications
+## Selected Publications by Topic
 * Geophysical fluid dynamics / wave turbulence
   * __Cao N M__ Rossby waves past the breaking point in zonally-dominated flows _submitted to J. Fluid Mech._ ([preprint](https://1drv.ms/b/s!Ar3O8VIaDljtgu5t9p3UsucfYKkGZw?e=hzv6t1))
 * Turbulence bifurcations / confinement transitions in tokamaks
