@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Home - About Me"
+excerpt: "Home - About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Hello world! I like turbulence, fundamental research, teaching, and work which has a socially-conscious impact. This site is my personal academic website, where you can find an overview of my research, teaching, and other such things. Feel free to browse around using the links in the navigation bar!
+
+The best way to reach me is by my email, which is currently [firstname].[lastname]@cims.nyu.edu.
 
 ## Research Interests
 * Magnetic confinement fusion energy
@@ -21,7 +23,7 @@ Hello world! I like turbulence, fundamental research, teaching, and work which h
 * Research Assistant at MIT Plasma Science and Fusion Center (2015-2020)
 
 ## Education
-* Ph.D. in Applied Plasma Physics, Massachusetts Institute of Technology, 2020
+* Ph.D. in Applied Plasma Physics, Massachusetts Institute of Technology, 2020 \
 Thesis Title: _Characterization of a turbulence bifurcation underlying L-mode confinement transitions on Alcator C-Mod_
 * B.S. in Aerospace Engineering and Physics with Minor in Mathematics, Massachusetts Institute of Technology, 2015
 
