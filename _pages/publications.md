@@ -12,7 +12,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 ## Selected Publications
 * Geophysical fluid dynamics / wave turbulence
   * __Cao N M__ Rossby waves past the breaking point in zonally-dominated flows _submitted to J. Fluid Mech._ ([preprint](https://1drv.ms/b/s!Ar3O8VIaDljtgu5t9p3UsucfYKkGZw?e=hzv6t1))
-* Confinement transitions in tokamaks
+* Turbulence bifurcations / confinement transitions in tokamaks
   * __Cao N M__, Rice J E, Diamond P H, White A E, Chilenski M A, Ennever P C, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P 2020 Evidence and modeling of turbulence bifurcation in L-mode confinement transitions on Alcator C-Mod Phys. Plasmas 27 052303 ([doi](https://doi.org/10.1063/1.5144444))
   * __Cao N M__, Rice J E, Diamond P H, White A E, Baek S G, Chilenski M A, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P 2019 Hysteresis as a probe of turbulent bifurcation in intrinsic rotation reversals on Alcator C-Mod Nucl. Fusion 59 104001 ([doi](https://doi.org/10.1088/1741-4326/ab3b38))
 * Computational statistics / spectroscopy
@@ -25,11 +25,11 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 * Rossby Waves Past the Breaking Point in Zonally-Dominated Turbulence \
 12th Festival de Théorie; July 8, 2022; Aix-en-Provence, France ([youtube](https://www.youtube.com/watch?v=dZbMWlpAm0E))
 * Hysteresis as a Probe of Turbulent Bifurcation in Intrinsic Rotation Reversals on Alcator C-Mod \
-_Invited Talk_ 61st APS-DPP Meeting; October 21-25, 2019; Fort Lauderdale, Florida
+_Invited Talk_. 61st APS-DPP Meeting; October 21-25, 2019; Fort Lauderdale, Florida
 * Observation and Quasilinear Modeling of Rotation Reversal Hysteresis in Alcator C-Mod Plasmas \
-_Best Student Poster Prize Winner_ 24th Joint US-EU Transport Task Force Meeting; March 18-21, 2019; Austin, Texas
+___Best Student Poster Prize Winner___. 24th Joint US-EU Transport Task Force Meeting; March 18-21, 2019; Austin, Texas
 * Observation and Quasilinear Modeling of Rotation Reversal Hysteresis in Alcator C-Mod Plasmas \
-_Invited Talk_ 2nd Asia-Pacific Conference on Plasma Physics; November 12-17, 2018; Kanazawa, Japan
+_Invited Talk_. 2nd Asia-Pacific Conference on Plasma Physics; November 12-17, 2018; Kanazawa, Japan
 
 
 ## In the Media

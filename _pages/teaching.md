@@ -14,6 +14,8 @@ I like teaching!
 * NYU MATH-UA 148 (Honors Linear Algebra). [Sample syllabus](/files/MATH148-001_S2022_syllabus.pdf)
 * NYU MATH-UA 325 (Analysis). [Sample syllabus](/files/MATH325-010_F2022_syllabus.pdf)
 
+<sub>For fun, here's a video of me [doing a ⚡🥒 demo](https://www.youtube.com/watch?v=ZcD4y4UrF-w).</sub>
+
 {% comment %}
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
