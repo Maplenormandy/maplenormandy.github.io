@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Norman M. Cao"
 title_separator          : "-"
 name                     : &name "Norman M. Cao"
-description              : &description "Assistant Professor / Courant Instructor at New York University"
+description              : &description "Assistant Professor / Courant Instructor at New York University (NYU)"
 url                      : https://maplenormandy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maplenormandy/maplenormandy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Norman M. Cao"
   avatar           : "profile_2022.jpg"
-  bio              : "Assistant Professor / Courant Instructor at New York University"
+  bio              : "Assistant Professor / Courant Instructor at New York University (NYU)"
   location         : "New York, NY"
   employer         :
   pubmed           : 
