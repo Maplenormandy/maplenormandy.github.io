@@ -16,8 +16,8 @@ The best way to reach me is by my email, which is currently [firstname].[lastnam
 * Magnetic confinement fusion energy
 * Plasma physics and geophysical fluid dynamics
 * Turbulence (wave, fluid, kinetic), dynamical systems
-* Zonal flows and pattern formation
-* Transition behaviors in turbulence
+* Zonal flows and other coherent structures
+* Transition and pattern formation behaviors in turbulence
 
 ## Positions Held
 * Assistant Professor (Non-Tenure Track) / Courant Instructor / Simons Faculty Fellow in the Mathematics Department of the Courant Institute at New York University (2020-current)
