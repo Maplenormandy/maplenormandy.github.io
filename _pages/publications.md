@@ -11,7 +11,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 
 ## Selected Publications by Topic
 * Geophysical fluid dynamics / wave turbulence
-  * __Cao N M__ Rossby waves past the breaking point in zonally-dominated flows _submitted to J. Fluid Mech._ ([preprint](https://cims.nyu.edu/~nc1472/nmcao_rossbywaves_jfm_08.10.22.pdf))
+  * __Cao N M__ Rossby waves past the breaking point in zonally-dominated flows _submitted to J. Fluid Mech._ ([preprint](https://cims.nyu.edu/~nc1472/rossbywaves_jfm.html))
 * Turbulence bifurcations / confinement transitions in tokamaks
   * __Cao N M__, Rice J E, Diamond P H, White A E, Chilenski M A, Ennever P C, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P 2020 Evidence and modeling of turbulence bifurcation in L-mode confinement transitions on Alcator C-Mod Phys. Plasmas 27 052303 ([doi](https://doi.org/10.1063/1.5144444))
   * __Cao N M__, Rice J E, Diamond P H, White A E, Baek S G, Chilenski M A, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P 2019 Hysteresis as a probe of turbulent bifurcation in intrinsic rotation reversals on Alcator C-Mod Nucl. Fusion 59 104001 ([doi](https://doi.org/10.1088/1741-4326/ab3b38))
