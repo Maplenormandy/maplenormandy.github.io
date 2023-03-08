@@ -13,6 +13,7 @@ Hello world! I like turbulence, fundamental research, teaching, and work which h
 The best way to reach me is by my email, which is currently [firstname].[lastname]@cims.nyu.edu.
 
 ## Research Interests
+<img src="/images/banner.jpg" alt="Turbulence banner" width="100%" />
 * Magnetic confinement fusion energy
 * Plasma physics and geophysical fluid dynamics
 * Turbulence (wave, fluid, kinetic), dynamical systems
@@ -20,7 +21,7 @@ The best way to reach me is by my email, which is currently [firstname].[lastnam
 * Transition and pattern formation behaviors in turbulence
 
 ## Positions Held
-* Assistant Professor (Non-Tenure Track) / Courant Instructor / Simons Faculty Fellow in the Mathematics Department of the Courant Institute at New York University (2020-current)
+* Courant Instructor / Assistant Professor (Non-Tenure Track) in the Mathematics Department of the Courant Institute at New York University (2020-current)
 * Research Assistant at MIT Plasma Science and Fusion Center (2015-2020)
 
 ## Education

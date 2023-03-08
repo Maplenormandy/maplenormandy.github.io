@@ -36,3 +36,12 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+.papertitle {
+  font-size: $type-size-4;
+  font-style: italic;
+}
+
+.publist {
+  font-size: $type-size-6;
+}
