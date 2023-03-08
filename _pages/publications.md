@@ -36,7 +36,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Rossby waves past the breaking point in zonally dominated turbulence</span><br/>
-        J. Fluid Mech. <strong>958</strong> A28 (2023); <a>https://doi.org/10.1017/jfm.2023.90</a><br/>
+        J. Fluid Mech. <strong>958</strong> A28 (2023); <a href="https://doi.org/10.1017/jfm.2023.90">https://doi.org/10.1017/jfm.2023.90</a><br/>
         <strong>Cao N M</strong></li>
       </ul>
     </td>
@@ -50,11 +50,11 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Evidence and modeling of turbulence bifurcation in L-mode confinement transitions on Alcator C-Mod</span><br/>
-        Phys. Plasmas <strong>27</strong> 052303 (2020); <a>https://doi.org/10.1063/1.5144444</a><br/>
+        Phys. Plasmas <strong>27</strong> 052303 (2020); <a href="https://doi.org/10.1063/1.5144444">https://doi.org/10.1063/1.5144444</a><br/>
         <strong>Cao N M</strong>, Rice J E, Diamond P H, White A E, Chilenski M A, Ennever P C, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P </li>
         <!-- -->
         <li><span class="papertitle">Hysteresis as a probe of turbulent bifurcation in intrinsic rotation reversals on Alcator C-Mod</span><br/>
-        Nucl. Fusion <strong>59</strong> 104001 (2019); <a>https://doi.org/10.1088/1741-4326/ab3b38</a><br/>
+        Nucl. Fusion <strong>59</strong> 104001 (2019); <a href="https://doi.org/10.1088/1741-4326/ab3b38">https://doi.org/10.1088/1741-4326/ab3b38</a><br/>
         <strong>Cao N M</strong>, Rice J E, Diamond P H, White A E, Baek S G, Chilenski M A, Hughes J W, Irby J, Reinke M L and Rodriguez-Fernandez P</li>
       </ul>
     </td>
@@ -68,7 +68,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Bayesian Spectral Moment Estimation and Uncertainty Quantification</span><br/>
-        IEEE Trans. Plasma Sci. <strong>48</strong> 22–30 (2020); <a>https://doi.org/10.1109/TPS.2019.2946952</a><br/>
+        IEEE Trans. Plasma Sci. <strong>48</strong> 22–30 (2020); <a href="https://doi.org/10.1109/TPS.2019.2946952">https://doi.org/10.1109/TPS.2019.2946952</a><br/>
         <strong>Cao N M</strong> and Sciortino F</li>
       </ul>
     </td>
@@ -78,7 +78,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 ### _Fusion engineering_
 <ul class="publist">
   <li><span class="papertitle">Conceptual design study for heat exhaust management in the ARC fusion pilot plant</span><br/>
-  Fusion Eng. Des. <strong>137</strong> 221–42 (2018); <a>https://doi.org/10.1016/j.fusengdes.2018.09.007</a><br/>
+  Fusion Eng. Des. <strong>137</strong> 221–42 (2018); <a href="https://doi.org/10.1016/j.fusengdes.2018.09.007">https://doi.org/10.1016/j.fusengdes.2018.09.007</a><br/>
   Kuang A Q, <strong>Cao N M</strong>, Creely A J, Dennett C A, Hecla J, LaBombard B, Tinguely R A, Tolman E A, Hoffman H, Major M, Ruiz Ruiz J, Brunner D, Grover P, Laughman C, Sorbom B N and Whyte D G<br/>
   <em>(Note: This publication was the result of a group project for MIT 22.63 Engineering Principles for Fusion Reactors)</em></li>
   
