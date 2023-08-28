@@ -10,7 +10,7 @@ redirect_from:
 
 Hello world! I like turbulence, fundamental research, teaching, and work which has a socially-conscious impact. This site is my personal academic website, where you can find an overview of my research, teaching, and other such things. Feel free to browse around using the links in the navigation bar!
 
-The best way to reach me is by my email, which is currently [firstname].[lastname]@cims.nyu.edu.
+The best way to reach me is by my email, which is currently [firstname].[lastname]@austin.utexas.edu.
 
 ## Research Interests
 <img src="/images/banner.jpg" alt="Turbulence banner" width="100%" />
@@ -21,7 +21,8 @@ The best way to reach me is by my email, which is currently [firstname].[lastnam
 * Transition and pattern formation behaviors in turbulence
 
 ## Positions Held
-* Courant Instructor / Assistant Professor (Non-Tenure Track) in the Mathematics Department of the Courant Institute at New York University (2020-current)
+* Research Fellow in the Institute for Fusion Studies at UT Austin (2023-current)
+* Courant Instructor / Assistant Professor (Non-Tenure Track) in the Mathematics Department of the Courant Institute at New York University (2020-2023)
 * Research Assistant at MIT Plasma Science and Fusion Center (2015-2020)
 
 ## Education
