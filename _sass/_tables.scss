@@ -23,14 +23,13 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
-  text-align: left;
-  border-right: 1px solid $light-gray;
+  border: 1px solid $light-gray;
+  text-align: center;
 }
 
 td {
   padding: 0.5em;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
+  border: 1px solid $light-gray;
 }
 
 tr, td, th {
@@ -44,4 +43,10 @@ tr, td, th {
 
 .publist {
   font-size: $type-size-6;
+}
+
+.pubsection {
+  font-size: $type-size-4;
+  font-weight: bold;
+  font-style: italic;
 }

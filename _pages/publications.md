@@ -18,7 +18,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 ## Selected Publications by Topic
 -----
 
-### _Plasma edge turbulence_
+### _Turbulence in basic fluid and plasma systems_
 <table>
   <tr>
     <td width="30%"><img src="/images/bhw.jpg" alt="Graphical abstract" width="100%" /></td>
@@ -26,14 +26,11 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
       <ul>
         <li><span class="papertitle">Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence</span><br/>
         Phys. Plasmas <strong>30</strong>, 092307 (2023); <a href="https://doi.org/10.1063/5.0158013">doi:10.1063/5.0158013</a> <a href="https://arxiv.org/abs/2309.15764">arxiv:2309.15764</a><br/>
-        Cao N M and Qi D</li>
+        <strong>Cao N M</strong> and Qi D</li>
       </ul>
     </td>
   </tr>
-</table>
 
-### _Geophysical fluid dynamics and wave turbulence_
-<table>
   <tr>
     <td width="30%"><img src="/images/rossbywaves.jpg" alt="Graphical abstract" width="100%" /></td>
     <td>
@@ -46,7 +43,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
   </tr>
 </table>
 
-### _Turbulence bifurcations and confinement transitions in tokamaks_
+### _Turbulence in tokamak plasmas_
 <table>
   <tr>
     <td width="30%"><img src="/images/hysteresis.png" alt="Graphical abstract" width="100%" /></td>
@@ -64,7 +61,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
   </tr>
 </table>
 
-### _Computational statistics and spectroscopy_
+### _Computational statistics_
 <table>
   <tr>
     <td width="30%"><img src="/images/bsfc.jpg" alt="Graphical abstract" width="100%" /></td>
@@ -78,7 +75,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
   </tr>
 </table>
 
-### _Fusion engineering_
+### _Fusion reactor engineering_
 <ul class="publist">
   <li><span class="papertitle">Conceptual design study for heat exhaust management in the ARC fusion pilot plant</span><br/>
   Fusion Eng. Des. <strong>137</strong> 221–42 (2018); <a href="https://doi.org/10.1016/j.fusengdes.2018.09.007">doi:10.1016/j.fusengdes.2018.09.007</a><br/>
