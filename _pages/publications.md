@@ -25,6 +25,9 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence</span><br/>
+        <i>Manuscript under preparation</i>; <a href="https://arxiv.org/abs/2402.13942">arxiv:2402.13942</a><br/>
+        <strong>Cao N M</strong> and Qi D</li>
+        <li><span class="papertitle">Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence</span><br/>
         Phys. Plasmas <strong>30</strong>, 092307 (2023); <a href="https://doi.org/10.1063/5.0158013">doi:10.1063/5.0158013</a> <a href="https://arxiv.org/abs/2309.15764">arxiv:2309.15764</a><br/>
         <strong>Cao N M</strong> and Qi D</li>
       </ul>
