@@ -72,7 +72,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression</span><br/>
-        <i>Manuscript under preparation</i><br/>
+        <i>Manuscript under preparation for submission 2025</i><br/>
         <strong>N.M. Cao</strong>, D.R. Hatch, C. Michoski, T.A. Oliver, D. Eldon, A.O. Nelson, M. Waller</li>
       </ul>
     </td>
