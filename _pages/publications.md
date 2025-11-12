@@ -50,6 +50,17 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 ### _Turbulence in tokamak plasmas_
 <table>
   <tr>
+    <td width="30%"><img src="/images/xgc_shearless.png" alt="Graphical abstract" width="100%" /></td>
+    <td>
+      <ul>
+        <li><span class="papertitle">Detecting Shearless Phase-Space Transport Barriers in Global Gyrokinetic Turbulence Simulations with Test Particle Map Models</span><br/>
+        <i>Under review in Journal of Plasma Physics</i>; <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a><br/>
+        <strong>N.M. Cao</strong>, H. Zhu, G.C. Grime and T. Stoltzfus-Dueck</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
     <td width="30%"><img src="/images/hysteresis.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
@@ -72,7 +83,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression</span><br/>
-        <i>Under review in Nuclear Fusion</i> <a href="https://arxiv.org/abs/2507.05067">arXiv:2507.05067</a><br/>
+        <i>Under review in Nuclear Fusion</i>; <a href="https://arxiv.org/abs/2507.05067">arXiv:2507.05067</a><br/>
         <strong>N.M. Cao</strong>, D.R. Hatch, C. Michoski, T.A. Oliver, D. Eldon, A.O. Nelson, M. Waller</li>
       </ul>
     </td>
