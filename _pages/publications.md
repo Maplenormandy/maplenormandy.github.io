@@ -18,35 +18,6 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
 ## Selected Publications by Topic
 -----
 
-### _Turbulence in basic fluid and plasma systems_
-<table>
-  <tr>
-    <td width="30%"><img src="/images/bhw.jpg" alt="Graphical abstract" width="100%" /></td>
-    <td>
-      <ul>
-        <li><span class="papertitle">The maintenance of coherent vortex topology by Lagrangian chaos in drift-Rossby wave turbulence</span><br/>
-        <i>Phys. Fluids</i> <strong>36</strong> 061701 (2024); <a href="https://doi.org/10.1063/5.0207687">doi:10.1063/5.0207687</a> <a href="https://arxiv.org/abs/2402.13942">arXiv:2402.13942</a><br/>
-        <strong>N.M. Cao</strong> and D. Qi</li>
-        <!-- -->
-        <li><span class="papertitle">Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence</span><br/>
-        <i>Phys. Plasmas</i> <strong>30</strong> 092307 (2023); <a href="https://doi.org/10.1063/5.0158013">doi:10.1063/5.0158013</a> <a href="https://arxiv.org/abs/2309.15764">arXiv:2309.15764</a><br/>
-        <strong>N.M. Cao</strong> and D. Qi</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="30%"><img src="/images/rossbywaves.jpg" alt="Graphical abstract" width="100%" /></td>
-    <td>
-      <ul>
-        <li><span class="papertitle">Rossby waves past the breaking point in zonally dominated turbulence</span><br/>
-        <i>J. Fluid Mech.</i> <strong>958</strong> A28 (2023); <a href="https://doi.org/10.1017/jfm.2023.90">doi:10.1017/jfm.2023.90</a><br/>
-        <strong>N.M. Cao</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ### _Turbulence in tokamak plasmas_
 <table>
   <tr>
@@ -54,7 +25,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Detecting Shearless Phase-Space Transport Barriers in Global Gyrokinetic Turbulence Simulations with Test Particle Map Models</span><br/>
-        <i>Under review in Journal of Plasma Physics</i>; <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a><br/>
+        <i>Accepted for publication in Journal of Plasma Physics</i>; <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a><br/>
         <strong>N.M. Cao</strong>, H. Zhu, G.C. Grime and T. Stoltzfus-Dueck</li>
       </ul>
     </td>
@@ -83,7 +54,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression</span><br/>
-        <i>Under review in Nuclear Fusion</i>; <a href="https://arxiv.org/abs/2507.05067">arXiv:2507.05067</a><br/>
+        <i>Nucl. Fusion</i> <strong>66</strong> 026016 (2026); <a href="https://doi.org/10.1088/1741-4326/ae2d6f">doi:10.1088/1741-4326/ae2d6f</a> <a href="https://arxiv.org/abs/2507.05067">arXiv:2507.05067</a><br/>
         <strong>N.M. Cao</strong>, D.R. Hatch, C. Michoski, T.A. Oliver, D. Eldon, A.O. Nelson, M. Waller</li>
       </ul>
     </td>
@@ -96,6 +67,36 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <li><span class="papertitle">Bayesian Spectral Moment Estimation and Uncertainty Quantification</span><br/>
         <i>IEEE Trans. Plasma Sci.</i> <strong>48</strong> 22–30 (2020); <a href="https://doi.org/10.1109/TPS.2019.2946952">doi:10.1109/TPS.2019.2946952</a><br/>
         <strong>N.M. Cao</strong> and F. Sciortino</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+### _Turbulence in basic fluid and plasma systems_
+<table>
+  <tr>
+    <td width="30%"><img src="/images/bhw.jpg" alt="Graphical abstract" width="100%" /></td>
+    <td>
+      <ul>
+        <li><span class="papertitle">The maintenance of coherent vortex topology by Lagrangian chaos in drift-Rossby wave turbulence</span><br/>
+        <i>Phys. Fluids</i> <strong>36</strong> 061701 (2024); <a href="https://doi.org/10.1063/5.0207687">doi:10.1063/5.0207687</a> <a href="https://arxiv.org/abs/2402.13942">arXiv:2402.13942</a><br/>
+        <strong>N.M. Cao</strong> and D. Qi</li>
+        <!-- -->
+        <li><span class="papertitle">Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence</span><br/>
+        <i>Phys. Plasmas</i> <strong>30</strong> 092307 (2023); <a href="https://doi.org/10.1063/5.0158013">doi:10.1063/5.0158013</a> <a href="https://arxiv.org/abs/2309.15764">arXiv:2309.15764</a><br/>
+        <strong>N.M. Cao</strong> and D. Qi</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%"><img src="/images/rossbywaves.jpg" alt="Graphical abstract" width="100%" /></td>
+    <td>
+      <ul>
+        <li><span class="papertitle">Rossby waves past the breaking point in zonally dominated turbulence</span><br/>
+        <i>J. Fluid Mech.</i> <strong>958</strong> A28 (2023); <a href="https://doi.org/10.1017/jfm.2023.90">doi:10.1017/jfm.2023.90</a><br/>
+        <strong>N.M. Cao</strong></li>
       </ul>
     </td>
   </tr>
