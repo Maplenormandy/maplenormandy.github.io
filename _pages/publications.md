@@ -28,7 +28,8 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <i>J. Plasma Phys</i> <strong>92</strong> E17 (2026);
         <a href="https://doi.org/10.1017/S0022377826101305">doi:10.1017/S0022377826101305</a>
         <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a>
-        <a href="https://github.com/Maplenormandy/c1lgkt"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/c1lgkt</a><br/>
+        <a href="https://github.com/Maplenormandy/c1lgkt"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/c1lgkt </a>
+        <br/>
         <strong>N.M. Cao</strong>, H. Zhu, G.C. Grime and T. Stoltzfus-Dueck</li>
       </ul>
     </td>
@@ -62,7 +63,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <i>Nucl. Fusion</i> <strong>66</strong> 026016 (2026);
         <a href="https://doi.org/10.1088/1741-4326/ae2d6f">doi:10.1088/1741-4326/ae2d6f</a>
         <a href="https://arxiv.org/abs/2507.05067">arXiv:2507.05067</a>
-        <a href="https://github.com/Maplenormandy/gpr-resolution"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/gpr-resolution</a>
+        <a href="https://github.com/Maplenormandy/gpr-resolution"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/gpr-resolution </a>
         <br/>
         <strong>N.M. Cao</strong>, D.R. Hatch, C. Michoski, T.A. Oliver, D. Eldon, A.O. Nelson, M. Waller</li>
       </ul>
@@ -76,7 +77,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <li><span class="papertitle">Bayesian Spectral Moment Estimation and Uncertainty Quantification</span><br/>
         <i>IEEE Trans. Plasma Sci.</i> <strong>48</strong> 22–30 (2020);
         <a href="https://doi.org/10.1109/TPS.2019.2946952">doi:10.1109/TPS.2019.2946952</a>
-        <a href="https://github.com/Maplenormandy/bsfc"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/bsfc</a>
+        <a href="https://github.com/Maplenormandy/bsfc"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/bsfc </a>
         <br/>
         <strong>N.M. Cao</strong> and F. Sciortino</li>
       </ul>
@@ -115,7 +116,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <li><span class="papertitle">Rossby waves past the breaking point in zonally dominated turbulence</span><br/>
         <i>J. Fluid Mech.</i> <strong>958</strong> A28 (2023);
         <a href="https://doi.org/10.1017/jfm.2023.90">doi:10.1017/jfm.2023.90</a>
-        <a href="https://github.com/Maplenormandy/qg-edgeofchaos"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/qg-edgeofchaos</a>
+        <a href="https://github.com/Maplenormandy/qg-edgeofchaos"><i class="fab fa-fw fa-github" aria-hidden="true"> Maplenormandy/qg-edgeofchaos </a>
         <br/>
         <strong>N.M. Cao</strong></li>
       </ul>
