@@ -25,7 +25,8 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
     <td>
       <ul>
         <li><span class="papertitle">Detecting Shearless Phase-Space Transport Barriers in Global Gyrokinetic Turbulence Simulations with Test Particle Map Models</span><br/>
-        <i>Accepted for publication in Journal of Plasma Physics</i>; <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a><br/>
+        <i>J. Plasma Phys</i> <strong>92</strong> E17 (2026); <a href="https://doi.org/10.1017/S0022377826101305">doi:10.1017/S0022377826101305</a> <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a><br/>
+        <a href="https://github.com/Maplenormandy/c1lgkt"><i class="fab fa-fw fa-github" aria-hidden="true">::before</i>" Maplenormandy/c1lgkt"</a><br/>
         <strong>N.M. Cao</strong>, H. Zhu, G.C. Grime and T. Stoltzfus-Dueck</li>
       </ul>
     </td>
