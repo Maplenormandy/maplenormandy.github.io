@@ -29,7 +29,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <a href="https://doi.org/10.1017/S0022377826101305">doi:10.1017/S0022377826101305</a>
         <a href="https://arxiv.org/abs/2511.02075">arXiv:2511.02075</a>
         <a href="https://github.com/Maplenormandy/c1lgkt">
-          <i class="fab fa-fw fa-github" aria-hidden="true"><span>Maplenormandy/c1lgkt</span>
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i><span> Maplenormandy/c1lgkt</span>
         </a>
         <br/>
         <strong>N.M. Cao</strong>, H. Zhu, G.C. Grime and T. Stoltzfus-Dueck</li>
@@ -66,7 +66,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <a href="https://doi.org/10.1088/1741-4326/ae2d6f">doi:10.1088/1741-4326/ae2d6f</a>
         <a href="https://arxiv.org/abs/2507.05067">arXiv:2507.05067</a>
         <a href="https://github.com/Maplenormandy/gpr-resolution">
-          <i class="fab fa-fw fa-github" aria-hidden="true"><span>Maplenormandy/gpr-resolution</span>
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i><span> Maplenormandy/gpr-resolution</span>
         </a>
         <br/>
         <strong>N.M. Cao</strong>, D.R. Hatch, C. Michoski, T.A. Oliver, D. Eldon, A.O. Nelson, M. Waller</li>
@@ -82,7 +82,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <i>IEEE Trans. Plasma Sci.</i> <strong>48</strong> 22–30 (2020);
         <a href="https://doi.org/10.1109/TPS.2019.2946952">doi:10.1109/TPS.2019.2946952</a>
         <a href="https://github.com/Maplenormandy/bsfc">
-          <i class="fab fa-fw fa-github" aria-hidden="true"><span>Maplenormandy/bsfc</span>
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i><span> Maplenormandy/bsfc</span>
         </a>
         <br/>
         <strong>N.M. Cao</strong> and F. Sciortino</li>
@@ -123,7 +123,7 @@ You can find all of my publications on <a href="https://scholar.google.com/citat
         <i>J. Fluid Mech.</i> <strong>958</strong> A28 (2023);
         <a href="https://doi.org/10.1017/jfm.2023.90">doi:10.1017/jfm.2023.90</a>
         <a href="https://github.com/Maplenormandy/qg-edgeofchaos">
-          <i class="fab fa-fw fa-github" aria-hidden="true"><span>Maplenormandy/qg-edgeofchaos</span>
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i><span> Maplenormandy/qg-edgeofchaos</span>
         </a>
         <br/>
         <strong>N.M. Cao</strong></li>
