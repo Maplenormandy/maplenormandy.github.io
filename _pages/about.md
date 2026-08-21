@@ -14,11 +14,10 @@ The best way to reach me is by my email, which is currently [firstname].[lastnam
 
 ## Research Interests
 <img src="/images/banner.jpg" alt="Turbulence banner" width="100%" />
-* Magnetic confinement fusion energy
-* Plasma physics and geophysical fluid dynamics
-* Turbulence (wave, fluid, kinetic), dynamical systems
-* Zonal flows and other coherent structures
-* Transition and pattern formation behaviors in turbulence
+* Plasma physics, magnetic confinement fusion energy, and geophysical fluid dynamics
+* Dynamical systems; transition and pattern formation behaviors in turbulence, particularly zonal flow / drift wave interaction
+* Data-driven reduced-order modeling; advanced uncertainty quantification methods, particularly Bayesian inference and Gaussian Process Regression
+
 
 ## Positions Held
 * Research Fellow in the Institute for Fusion Studies at UT Austin (2023-current)
